@@ -29,8 +29,8 @@ This project demonstrates advanced database techniques including:
 - **`getEmbeddings.py`** - Generates vector embeddings using sentence transformers
 
 ### Data Files
-- **`dblp.xml`** - The main DBLP XML dataset (large file)
-- **`dblp.dtd`** - XML Document Type Definition for DBLP format
+- **`dblp.xml`** - The main DBLP XML dataset. Can be downloaded here: https://dblp.org/xml/
+- **`dblp.dtd`** - XML Document Type Definition for DBLP format. Can be downloaded here: https://dblp.org/xml/
 - **`pubFile.txt`** - Generated file containing (key, publication_type) tuples
 - **`fieldFile.txt`** - Generated file containing (key, field_count, field, value) tuples
 - **`ER.pdf`** - Entity-Relationship diagram documentation
